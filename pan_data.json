@@ -1,0 +1,35 @@
+[
+    {
+        "code": 200,
+        "timestamp": 1725823328893,
+        "transaction_id": "ecf38399134547f3a69a1edcf6ad4230",
+        "sub_code": "SUCCESS",
+        "message": "Pan Verified Successfully.",
+        "data": {
+            "pan_number": "ABHPY9940Q",
+            "full_name": "UMA LAXMAN",
+            "full_name_split": [
+                "UMA",
+                "",
+                "LAXMAN"
+            ],
+            "masked_aadhaar": "XXXXXXXX6093",
+            "address": {
+                "line_1": "275, 5th Main, MS Ramaiah City, JP Nagar 8th Phase",
+                "line_2": "",
+                "street_name": "J P Nagar S.O",
+                "zip": "560078",
+                "city": "Bangalore South",
+                "state": "KARNATAKA",
+                "country": "INDIA",
+                "full": "275, 5th Main, MS Ramaiah City, JP Nagar 8th Phase J P Nagar S.O 560078 Bangalore South KARNATAKA INDIA"
+            },
+            "email": "luma@gmail.com",
+            "phone_number": "8884831677",
+            "gender": "F",
+            "dob": "1973-07-06",
+            "aadhaar_linked": true,
+            "category": "person"
+        }
+    }
+]
